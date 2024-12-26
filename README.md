@@ -1,15 +1,4 @@
-# Desafio DIO - Abstraindo um Bootcamp Usando Orientação a Objetos em Java
-
-## 📚 Descrição do Projeto
-Este projeto faz parte de um desafio da plataforma [DIO](https://www.dio.me/), onde aplicamos os **princípios da Programação Orientada a Objetos (POO)** em Java para abstrair um sistema de bootcamp. O objetivo é consolidar o conhecimento sobre os **quatro pilares da POO**: **Abstração**, **Encapsulamento**, **Herança** e **Polimorfismo**.
-
-## 🚀 Tecnologias Utilizadas
-- **Java** - Linguagem principal para desenvolvimento do projeto.  
-- **IDE** - IntelliJ IDEA / Eclipse (ou qualquer IDE de sua preferência).  
-- **Git/GitHub** - Controle de versão e hospedagem do código.  
-
-## 🛠️ Estrutura do Projeto
-O projeto foi desenvolvido com base em entidades do mundo real relacionadas a um bootcamp. Abaixo estão as principais classes e suas responsabilidades:
+# LOODING FUTURO DEV...
 
 - **Bootcamp**: Representa o conceito principal do sistema, contendo cursos e mentores.  
 - **Curso**: Representa uma unidade de aprendizado com título, descrição e carga horária.  
@@ -29,17 +18,6 @@ O projeto foi desenvolvido com base em entidades do mundo real relacionadas a um
 https://github.com/Rodrigoapsousa/desafio-poo-dio
 ```
 
-2. **Abra o projeto na IDE de sua escolha**.
-3. **Compile e execute o programa**.
-4. **Explore as funcionalidades** adicionando cursos, mentorias e simulando o progresso de desenvolvedores no bootcamp.
-
-## ✨ Funcionalidades
-- Criar bootcamps com cursos e mentorias.  
-- Inscrever desenvolvedores e acompanhar seu progresso.  
-- Calcular experiência adquirida com base nos conteúdos concluídos.  
-
-## 📄 Licença
-Este projeto está licenciado sob a licença MIT - consulte o arquivo **LICENSE** para mais detalhes.
 
 ---
 
